@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بنك مصر</string>
+    <string name="language">En</string>
+    <string name="username_field">اسم المستخدم</string>
+    <string name="password_field">كلمة المرور</string>
+    <string name="login_button_text">تسجيل الدخول</string>
+    <string name="forgot_username_password">نسيت اسم المستخدم/ كلمة المرور؟</string>
+    <string name="our_products">منتجاتنا</string>
+    <string name="exchange_rate">سعر الصرف</string>
+    <string name="security_tips">نصائح أمنية</string>
+    <string name="nearest_branch_or_atm">أقرب فرع أو ماكينة صراف آلي</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="need_help">"مزيد من المساعدة؟ "</string>
+    <string name="ar">en</string>
+</resources>
